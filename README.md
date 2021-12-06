@@ -1,3 +1,5 @@
+Tested & Updated for Alpha 20 (b218)
+
 Zombie Lootbag Increase
 
 Sets the Zombie Lootbags so they stick around for 15 minutes. This ensures even on a bloodmoon, your Zombie Lootbags will still be around on the ground at the end of the night.
